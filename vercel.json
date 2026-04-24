@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd my-new-blog && npm run build",
+  "installCommand": "cd my-new-blog && npm install",
+  "outputDirectory": "my-new-blog/.next",
+  "framework": "nextjs"
+}
